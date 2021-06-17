@@ -2,7 +2,7 @@
 -  I’m interested in technology
 -  I’m currently learning react native
 -  I’m looking to collaborate on a project/hackathon
--  How to reach me - blue_panther at codeforces
+-  How to reach me - sorjo at riot.blob.cat
 
 <!---
 sourjyo0/sourjyo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
