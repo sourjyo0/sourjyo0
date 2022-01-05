@@ -1,8 +1,8 @@
 - Hi, I’m @sourjyo0
 -  I’m interested in technology
--  I’m currently learning react native
--  I’m looking to collaborate on a project/hackathon
--  How to reach me - sorjo at riot.blob.cat
+-  I’m currently learning fastai and kaggle
+-  I’m looking to collaborate on a project/hackathon/competition
+-  How to reach me - ...
 
 <!---
 sourjyo0/sourjyo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
