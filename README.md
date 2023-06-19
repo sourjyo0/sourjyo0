@@ -1,4 +1,4 @@
-- Hi, I’m @sourjyo0
+- Hi, I’m @zorjo
 -  I’m interested in technology
 -  I’m currently learning machine learning at Kaggle.
 -  How to reach me - sourjyo at protonmail
