@@ -1,6 +1,6 @@
 - Hi, I’m @zorjo
 -  I’m interested in technology
--  I’m currently learning machine learning at Kaggle.
+-  I’m currently a Software Developer and work with Fullstack technologies (React,Node,Golang)
 -  How to reach me - sourjyo at protonmail
 
 <!---
